@@ -1,6 +1,6 @@
-module github.com/Wondertan/go-ipfs-recovery
+module github.com/Yangzhengtang/FEC
 
-go 1.14
+go 1.18
 
 require (
 	github.com/gogo/protobuf v1.3.2

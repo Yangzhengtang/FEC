@@ -8,7 +8,7 @@ import (
 	"github.com/ipfs/go-cid"
 	format "github.com/ipfs/go-ipld-format"
 
-	"FEC"
+	"github.com/Yangzhengtang/FEC"
 )
 
 type recoverer struct {

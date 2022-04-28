@@ -8,7 +8,7 @@ import (
 	"github.com/multiformats/go-varint"
 	"github.com/templexxx/reedsolomon"
 
-	recovery "FEC"
+	recovery "github.com/Yangzhengtang/FEC"
 )
 
 // TODO Refactor to use Shards

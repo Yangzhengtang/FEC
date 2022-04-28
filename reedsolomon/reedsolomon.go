@@ -7,7 +7,7 @@ import (
 	"github.com/ipfs/go-ipld-format"
 	logging "github.com/ipfs/go-log/v2"
 
-	"FEC"
+	"github.com/Yangzhengtang/FEC"
 )
 
 var log = logging.Logger("recovery")

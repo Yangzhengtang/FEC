@@ -9,8 +9,8 @@ import (
 	"github.com/ipfs/go-ipld-format"
 	"github.com/ipfs/go-merkledag"
 
-	"FEC"
-	cpb "FEC/reedsolomon/pb"
+	"github.com/Yangzhengtang/FEC"
+	cpb "github.com/Yangzhengtang/FEC/reedsolomon/pb"
 )
 
 // Node is a recovery Node based ob Reed-Solomon coding.
